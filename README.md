@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hafez-CS
 - 👀 I’m interested in AI & cognitive science
 - 🌱 I’m currently learning ML & neural network
-- 💞️ I’m looking to collaborate on Cognitive science software projects
+- 💞️ I will be very happy if you have an idea to implement
 - 📫 How to reach me : mhcs185@gmail.com
 
 <!---
