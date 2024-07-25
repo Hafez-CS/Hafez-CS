@@ -1,33 +1,81 @@
 
 ![Monty Python](https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966)
 
-![Monty Python](https://camo.githubusercontent.com/5eb37dbec833f5dd21b37ede543d09db12686d36f780daa3ee9612b41a04c2f4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432b2b2d3030353939433f7374796c653d666f722d7468652d6261646765266c6f676f3d63253242253242266c6f676f436f6c6f723d7768697465)
+## 💻 Technology stack
 
-![Monty Python](https://camo.githubusercontent.com/20b9177e58a90fa0d7b42200f157f22089e4ae9f781ed98293d1de3b69486590/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432532332d3233393132303f7374796c653d666f722d7468652d6261646765266c6f676f3d632d7368617270266c6f676f436f6c6f723d7768697465)
+### 📌 Programming Languages
+![shields](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![shields](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![shields](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![shields](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-![Monty Python](https://camo.githubusercontent.com/55e4079e69ec5d8246620ecff24ed093877ab0f9011e71d8dec0a2c460c886ab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465)
+### :globe_with_meridians: Web Technologies
 
-![Monty Python](https://camo.githubusercontent.com/bfe6a48836e87b13a16f1f56f88fee428475c2ac29247992ec9b8bcc7154f881/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465)
+![shields](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![shields](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![shields](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge)
 
-![Monty Python](https://camo.githubusercontent.com/472c222e8f240a48ae51cd9b082a1b857be809dcd851a25150890c2da50c13a5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465)
-
-![Monty Python](https://camo.githubusercontent.com/81521ffdf464b6ccf96d80afb03d73edac19d56d28ee212174d802bbf47ad146/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5048502d3737374242343f7374796c653d666f722d7468652d6261646765266c6f676f3d706870266c6f676f436f6c6f723d7768697465)
-
-![Monty Python](https://camo.githubusercontent.com/a68fdafff2c458721dd1423490517ca3e726b7e3d21eac37ae9d308858a83348/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3138313731373f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465)
-
-![Monty Python](https://camo.githubusercontent.com/40bda6289fa3e364e6ac16809b4c5c1ed034d4f12eafb473507cfe57508c6b4d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c5f53747564696f2d3543324439313f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c2d73747564696f266c6f676f436f6c6f723d7768697465)
-
-![Monty Python](https://camo.githubusercontent.com/f844d7b8ced73b0dd0e6dde23fb6577ae1cdf53a82a66f2a5b1ca9ccd27692c8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53516c6974652d3030334235373f7374796c653d666f722d7468652d6261646765266c6f676f3d73716c697465266c6f676f436f6c6f723d7768697465)
-
-![Monty Python](https://camo.githubusercontent.com/cd1724b8346f8ca2cbf285d14ed8482d5df7b99d43d78d928b56034d94940545/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53514c253743504c2f53514c2d4638303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6f7261636c65266c6f676f436f6c6f723d7768697465)
-
-![Monty Python](https://camo.githubusercontent.com/c292429e232884db22e86c2ea2ea7695bc49dc4ae13344003a95879eeb7425d8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57696e646f77732d3030373844363f7374796c653d666f722d7468652d6261646765266c6f676f3d77696e646f7773266c6f676f436f6c6f723d7768697465)
+### 👉 IDE's
+![VSC](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
+![VSC](https://camo.githubusercontent.com/40bda6289fa3e364e6ac16809b4c5c1ed034d4f12eafb473507cfe57508c6b4d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c5f53747564696f2d3543324439313f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c2d73747564696f266c6f676f436f6c6f723d7768697465)
 
 
-![Monty Python](https://camo.githubusercontent.com/5eb37dbec833f5dd21b37ede543d09db12686d36f780daa3ee9612b41a04c2f4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432b2b2d3030353939433f7374796c653d666f722d7468652d6261646765266c6f676f3d63253242253242266c6f676f436f6c6f723d7768697465)
+### 👉 Databases
+![mysql](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![shields](https://img.shields.io/badge/SQlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-![Monty Python](https://camo.githubusercontent.com/5a963ef4fcebe2998ff3263982612cddd08b9b14f2fe21f766819efdea2bd236/687474703a2f2f696d672e736869656c64732e696f2f62616467652f2d5653253230436f64652d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d56697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d626c7565)
 
-![Monty Python](https://camo.githubusercontent.com/a8134cc90aa588cd54d83f9d99ffab6d74034e9fe39f57b9561f98278024aa41/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f555825324655492d70696e6b3f7374796c653d666f722d7468652d6261646765)
+### :100: Tools
 
-![Monty Python](https://camo.githubusercontent.com/337d99f57ff7321bc348e9fc57a7d6047415e211f0588328c9aa2e9ec61b8ebe/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6f7261636c65627261696e267468656d653d736861646f775f626c7565266c61796f75743d636f6d70616374)
+![shields](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![shields](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### :computer: Operating Systems
+
+![shields](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+
+
+<br/><div align="center">
+  <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider2.png" alt="divider"/>
+</div> 
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="32" alt="androidstudio logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=bash" height="32" alt="bash logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="32" alt="jetbrains logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="32" alt="vscode logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="32" alt="xcode logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=git" height="32" alt="git logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=github" height="32" alt="github logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=gitlab" height="32" alt="gitlab logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="32" alt="googlecloud logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="32" alt="google logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=latex" height="32" alt="latex logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=md" height="32" alt="markdown logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="32" alt="firebase logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=figma" height="32" alt="figma logo"  />
+  </div>
+<p align="center"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer">      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>  
+
+<br/><div align="center">
+  <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider2.png" alt="divider"/>
+</div> 
+
+<div align="center">
+    <img src="https://github.com/MrArnaudMichel/MrArnaudMichel/blob/output/github-contribution-grid-snake-dark.svg" alt="snake")>
+</div>
