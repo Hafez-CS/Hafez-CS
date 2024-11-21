@@ -1,6 +1,7 @@
 
+![booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster](https://github.com/user-attachments/assets/97933fa3-ca21-498d-9038-9fe37a4d1799)
 
-![giphy](https://github.com/user-attachments/assets/be27f109-dc22-4a32-b997-7662febedb5a)
+
 
 
 ## 💻 Technology stack
